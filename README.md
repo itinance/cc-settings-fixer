@@ -30,7 +30,7 @@ No installation required! Just download the script:
 
 ```bash
 # Download the script
-curl -O https://example.com/claude_settings_fixer.py
+curl -O https://raw.githubusercontent.com/itinance/cc-settings-fixer/refs/heads/main/claude_settings_fixer.py
 # or copy the script to your local machine
 ```
 
