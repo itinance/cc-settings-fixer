@@ -16,6 +16,8 @@ permissions
 
 This happens when Claude Code automatically generates permissions using the old format, but the newer version expects the updated syntax.
 
+(Causing side effects like this: https://github.com/anthropics/claude-code/issues/5963)
+
 ## Solution
 
 This script automatically converts:
